@@ -93,7 +93,7 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 
 ## Certifications
 
-[Certified Ethical Hacker](https://drive.google.com/drive/folders/1fYEK98EBSeMWJrH7t253da2BR3sVluiy?usp=drive_link) &nbsp; <br>
+[Certified Ethical Hacker]([https://drive.google.com/drive/folders/1fYEK98EBSeMWJrH7t253da2BR3sVluiy?usp=drive_link](https://github.com/ArkS0001/Certifications/tree/main/Certificate/Ethical%20Hacking)) &nbsp; <br>
 
 #### More tools and tutorials coming your way soon
 
